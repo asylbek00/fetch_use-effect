@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fetch_use-effect/static/css/main.a0c3c1b3.css",
+    "main.js": "/fetch_use-effect/static/js/main.9b36fbeb.js",
+    "index.html": "/fetch_use-effect/index.html",
+    "main.a0c3c1b3.css.map": "/fetch_use-effect/static/css/main.a0c3c1b3.css.map",
+    "main.9b36fbeb.js.map": "/fetch_use-effect/static/js/main.9b36fbeb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0c3c1b3.css",
+    "static/js/main.9b36fbeb.js"
+  ]
+}
